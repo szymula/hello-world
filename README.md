@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is a simple repository being an initial project at GitHub.
